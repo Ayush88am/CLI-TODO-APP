@@ -28,6 +28,6 @@ This project is built and tested on [Replit](https://replit.com/) using:
 Example usage:
 
 ```bash
-cargo run -- --add "Learn Rust"
-cargo run -- --remove 1
+cargo run -- --add (todo information like title , date ,status,desc}
+cargo run -- --delete id 1
 cargo run -- --list
