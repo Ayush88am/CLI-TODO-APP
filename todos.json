@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Finish Rust book",
+    "description": "Complete chapter 5",
+    "due_date": "2024-07-05",
+    "status": false
+  },
+  {
+    "name": "Clean room",
+    "description": "Organize desk and shelves",
+    "due_date": "2024-06-25",
+    "status": false
+  },
+  {
+    "name": "Water plants",
+    "description": "Morning watering",
+    "due_date": "2024-06-21",
+    "status": true
+  },
+  {
+    "name": "Write blog post",
+    "description": "Draft intro to Rust CLI apps",
+    "due_date": "2024-07-01",
+    "status": false
+  },
+  {
+    "name": "Grocery shopping",
+    "description": "Buy fruits and vegetables",
+    "due_date": "2024-06-22",
+    "status": false
+  },
+  {
+    "name": "Exercise",
+    "description": "30 minutes of running",
+    "due_date": "2024-06-21",
+    "status": true
+  },
+  {
+    "name": "Backup project",
+    "description": "Push code to GitHub",
+    "due_date": "2024-06-23",
+    "status": false
+  },
+  {
+    "name": "Call mom",
+    "description": "Weekly check-in",
+    "due_date": "2024-06-20",
+    "status": true
+  },
+  {
+    "name": "Read article",
+    "description": "Read Rust error handling guide",
+    "due_date": "2024-06-29",
+    "status": false
+  }
+]
